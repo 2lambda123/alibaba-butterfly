@@ -19,7 +19,7 @@
     "@stackblitz/sdk": "^1.5.2",
     "antd": "~3.26.7",
     "butterfly-plugins-layout": "^0.0.1",
-    "axios": "^0.21.1",
+    "axios": "^1.7.7",
     "butterfly-dag": "*",
     "butterfly-react": "^0.0.6",
     "download.js": "^1.0.0",
@@ -63,7 +63,7 @@
     "style-loader": "~0.21.0",
     "style-resources-loader": "^1.4.1",
     "url-loader": "~1.0.1",
-    "webpack": "~4.41.5",
+    "webpack": "~5.95.0",
     "webpack-cli": "~3.0.8",
     "webpack-dev-server": "~3.10.1"
   }
